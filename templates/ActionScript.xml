@@ -1,0 +1,5 @@
+<templateSet group="ActionScript">
+  <template name="TODO" value="//TODO(${USER}): " description="todo template" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+</templateSet>
