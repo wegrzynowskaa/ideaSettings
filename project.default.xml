@@ -28,25 +28,9 @@
         <module2copyright>
           <element module="Project Files" copyright="copyright_ryanair" />
         </module2copyright>
-      </component>
-      <component name="ProjectDictionaryState">
-        <dictionary name="wegrzynowskaa" />
-      </component>
-      <component name="ProjectInspectionProfilesVisibleTreeState">
-        <entry key="Project Default">
-          <profile-state>
-            <expanded-state>
-              <State>
-                <id />
-              </State>
-            </expanded-state>
-            <selected-state>
-              <State>
-                <id>Android</id>
-              </State>
-            </selected-state>
-          </profile-state>
-        </entry>
+        <LanguageOptions name="__TEMPLATE__">
+          <option name="addBlankAfter" value="false" />
+        </LanguageOptions>
       </component>
       <component name="ProjectLevelVcsManager" settingsEditedManually="false">
         <OptionsSetting value="true" id="Add" />
@@ -58,11 +42,11 @@
         <ConfirmationsSetting value="0" id="Add" />
         <ConfirmationsSetting value="0" id="Remove" />
       </component>
-      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" default="true" assert-keyword="false" jdk-15="false" />
+      <component name="ProjectRootManager" version="2" default="true" assert-keyword="false" jdk-15="false" />
       <component name="PropertiesComponent">
         <property name="settings.editor.selected.configurable" value="copyright" />
-        <property name="settings.editor.splitter.proportion" value="0.2" />
         <property name="last_opened_file_path" value="$USER_HOME$/Downloads/copyright_ryanair.xml" />
+        <property name="settings.editor.splitter.proportion" value="0.2" />
       </component>
       <component name="RunManager">
         <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -151,9 +135,6 @@
           <method />
         </configuration>
       </component>
-      <component name="VcsContentAnnotationSettings">
-        <option name="myLimit" value="2678400000" />
-      </component>
       <component name="masterDetails">
         <states>
           <state key="Copyright.UI">
@@ -162,7 +143,7 @@
               <splitter-proportions>
                 <option name="proportions">
                   <list>
-                    <option value="0.2" />
+                    <option value="0.21256684" />
                   </list>
                 </option>
               </splitter-proportions>
